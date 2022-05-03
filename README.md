@@ -1,11 +1,13 @@
 <img src="https://i.imgur.com/2Lja89L.gif" width="300" >
 Hi，很高兴认识你~ 🙆  
-有兴趣可以看看我的博客：  
+
+有兴趣可以看看我的博客：   
+
 
  
 
  
- <p align="center">
+ <p align="left">
   <a href="https://github.com/pangandchou">
     <img
       align="center"
@@ -22,5 +24,4 @@ Hi，很高兴认识你~ 🙆
   </a>
 </p>
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangandchou)](https://github.com/pangandchou)
 
