@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/2Lja89L.gif" width="300" >
 Hi，很高兴认识你~ 🙆  
 
-有兴趣可以看看我的博客：https://pangandchou.github.io/
+有兴趣可以看看我的博客：👉 https://pangandchou.github.io 👈
 
 
  
