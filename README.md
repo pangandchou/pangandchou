@@ -1,11 +1,13 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=pangandchou&fontSize=60&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
+<div style="width: 10px;"></div>
+
 <p>
   <img src="https://count.getloli.com/get/@:pangandchou" alt=":pangandchou" />
   
 </p>
-Hi，很高兴认识你~ 🙆 有兴趣可以看看我的博客：👉 https://pangandchou.github.io 👈
-
-
 <img  src="https://i.imgur.com/2Lja89L.gif" width="300" >
+
 
 
 
