@@ -14,7 +14,7 @@
 - ❓ Ask me about anything related to network technology  
   
 
-- ⚡ Fun fact: Play Raspberry Pi  
+- ⚡ Here my blog: https://pangandchou.github.io/  
 
 
 </td><td valign="top" width="50%">
