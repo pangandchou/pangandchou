@@ -14,7 +14,7 @@
 - ❓ keep study, keep hunger  
   
 
-- ⚡ Here my blog: https://pangandchou.github.io/  
+- ⚡ Here my blog: https://pangandchou.github.io  
 
 
 </td><td valign="top" width="50%">
