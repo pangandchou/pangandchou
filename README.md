@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Java and Golang  
   
 
-- ❓ Ask me about anything related to network technology  
+- ❓ keep study, keep hunger  
   
 
 - ⚡ Here my blog: https://pangandchou.github.io/  
