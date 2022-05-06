@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Java and Golang  
   
 
-- ❓ keep study, keep hunger  
+- ❓ Keep study, keep hunger  
   
 
 - ⚡ Here my blog: https://pangandchou.github.io  
