@@ -2,6 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=pangandchou&fontSize=60&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 <div style="width: 10px;"></div>
 
+![](https://cdn.jsdelivr.net/gh/weixiabing/weixiabing/assets/github-contribution-grid-snake.svg) 
 
 <table><tr><td valign="top" width="50%">
 
@@ -26,7 +27,6 @@
 
 </td></tr></table>  
 
-![](https://cdn.jsdelivr.net/gh/weixiabing/weixiabing/assets/github-contribution-grid-snake.svg) 
 
 <p>
   <img
@@ -40,7 +40,7 @@
     />
 </p>
 
-
+<img src="https://count.getloli.com/get/@:pangandchou" alt=":pangandchou" />
 
 
  
